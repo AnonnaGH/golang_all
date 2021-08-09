@@ -4,7 +4,7 @@ import "fmt"
 
 //This is a commant
 
-func main(){
-         fmt.println("Hellow Anonnota")
- 
+func main() {
+	fmt.Println("Hellow Anonnota")
+
 }
